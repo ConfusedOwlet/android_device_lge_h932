@@ -15,8 +15,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="joan" \
     PRODUCT_DEVICE="joan" \
     PRODUCT_NAME="joan_tmo_us" \
-    PRIVATE_BUILD_DESC="joan_tmo_us-user 8.0.0 OPR1.170623.026 1819221128e3d release-keys"
+    PRIVATE_BUILD_DESC="joan_tmo_us-user 8.0.0 OPR1.170623.026 1900816569db7 release-keys"
 
-BUILD_FINGERPRINT="lge/joan_tmo_us/joan:8.0.0/OPR1.170623.026/1819221128e3d:user/release-keys"
+BUILD_FINGERPRINT="lge/joan_tmo_us/joan:8.0.0/OPR1.170623.026/1900816569db7:user/release-keys"
 
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST += ro.product.model ro.vendor.product.model
