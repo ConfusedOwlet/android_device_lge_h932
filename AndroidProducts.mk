@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_h932.mk
+    $(LOCAL_DIR)/havoc_h932.mk
