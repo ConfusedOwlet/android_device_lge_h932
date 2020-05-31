@@ -1,1 +1,1 @@
-add_lunch_combo lineage_h932-userdebug
+add_lunch_combo havoc_h932-userdebug
